@@ -1,0 +1,30 @@
+# Environnements virtuels Python
+venv/
+env/
+.venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Variables d'environnement
+.env
+.env.*
+
+# Base de données SQLite (Django)
+*.sqlite3
+db.sqlite3
+
+# Fichiers nohup
+nohup.out
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
